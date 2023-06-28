@@ -1,0 +1,32 @@
+/* .App {
+  margin: auto;
+  text-align: center;
+  background-color: aliceblue;
+} */
+.circle {
+  height: 50px;
+  width: 50px;
+  background-color: #d37070;
+  border-radius: 50%;
+  position: absolute;
+}
+.tRight{
+  translate: -50px;
+}
+.rectangle {
+  background-color: #ddd;
+  border: none;
+  color: black;
+  padding: 10px 52px;
+  text-align: center;
+  height: 60px;
+  text-decoration: none;
+  display: inline-block;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 40px;
+  position: relative;
+  transform: translate 1s;
+}
+
+
